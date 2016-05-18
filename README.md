@@ -1,2 +1,2 @@
 C# class
-hw and examples for c# class
+hw and examples
